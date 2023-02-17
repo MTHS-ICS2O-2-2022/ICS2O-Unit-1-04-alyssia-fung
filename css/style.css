@@ -1,4 +1,18 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Alyssiafung
+* Creaded on: February 2023
+* This css file defines the style for index html ICS2o-Unit1-04-HTML-CSS
 */
+
+body {
+  background-color: aquamarine;
+}
+h1 {
+  background-coloR: rgb(208, 255, 0);
+  color: hsl(154, 50%, 47%);
+  padding: 20px;
+  text-align: center;
+}
+
+p {
+  background-color: #a200ff;
+}
