@@ -1,7 +1,7 @@
-/* 
-  Author: Alyssia Fung
-  Date: May 2023
-  Description: CSS style for index2.html in ICS2O-Unit1-04-HTML-CSS
+/*
+ Author: Alyssia Fung
+ Date: May 2023
+ Description: CSS style for index2.html in ICS2O-Unit1-04-HTML-CSS
 */
 
 /* Set the background color for the page */
@@ -13,7 +13,7 @@ body {
 /* Style for the main heading */
 .header {
   background-color: rgb(255 170 0);
-  color: hsl(324deg 84%, 45%);
+  color: hsl(324dreg 0.84 0.45);
   padding: 40px;
   text-align: center;
 }
