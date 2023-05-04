@@ -13,7 +13,7 @@ body {
 /* Style for the main heading */
 .header {
   background-color: rgb(255 170 0);
-  color: hsl(324 0.84 0.45);
+  color: hsl(324deg 0.84 0.45);
   padding: 40px;
   text-align: center;
 }
